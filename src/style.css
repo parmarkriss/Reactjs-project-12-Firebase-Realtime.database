@@ -1,0 +1,13 @@
+.form-control{
+    border: 2px solid #E74147;
+}
+.form-control:focus {
+    border: 2px solid #E74147;
+    box-shadow: 0 0 8px #E74147; /* Change border color on focus */
+}
+#exampleInputEmail1{
+    height: 200px!important;
+}
+.img{
+    height: 85vh;
+}
